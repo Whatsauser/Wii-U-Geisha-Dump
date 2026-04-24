@@ -1,0 +1,81 @@
+@charset "utf-8";
+
+/*-- おすすめ投票 reco --*/
+
+#sb_cont { text-align:center; padding:auto; position:relative; }
+#reco01_01 .fi_ul { margin:18px 12px 25px !important; }
+
+
+/*-- 01_01 --*/
+
+#reco01_01 .g_belt { height:175px !important; }
+#reco01_01 h2 { width:510px; padding:30px 0 0 220px; text-align: left; float: left; }
+#reco01_01 .reco-history {
+    position: absolute;
+    right: 42px;
+    display: table;
+    margin: 36px 0 0 23px;
+    border-radius: 50px;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.6);
+    background: -webkit-gradient(
+    linear, left top, left bottom,
+    from(#ffffff), color-stop(0.4, #ffffff), color-stop(0.8, #f5f5f5), color-stop(0.96, #f0f0f0),
+    to(#aaaaaa)
+    );
+    width: 484px;
+    height: 60px;
+    font-size: 25px;
+}
+#reco01_01 .reco-history span {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    padding: 4px 20px;
+}
+#reco01_01 #data_exist { padding-bottom:40px; }
+
+#reco01_01 .page_sending_ul { padding:25px 0 0 0; }
+#reco01_01 .fi_ul { padding:0 0 0 0; }
+
+#reco01_01 .h21_addc a { width:485px; height:60px; line-height:60px; margin:28px 50px 16px 130px; }
+#reco01_01 .dn p { height:550px; }
+
+
+/*-- 01_02 --*/
+
+#reco01_02 #header_common { height:72px; }
+#reco_form { padding:25px 0 40px 0; }
+
+#reco01_02 .fi_ul { margin:0 12px 0 12px; border:none; }
+#reco01_02 .fi_ul li { padding:0; border:none; }
+#reco01_02 .h21_img img { border-radius:12px; }
+#reco01_02 .h21_rating { width:800px !important; height:25px; }
+#reco01_02 .h21_date { width:800px !important; margin:25px 0 5px 0; }
+
+.reco_wrap { width:980px; min-height:100px; margin:0 60px 32px 45px; padding:10px; }
+.reco_wrap h2 { text-align:left; padding:0 !important; font-size:25px; }
+.rw1 { display:block; width:40px; height:50px; line-height:50px; text-align:center; padding:auto; color:#ffffff; border-radius:12px; float:left; 
+    background:-webkit-gradient(linear, left top, left bottom, from(#ffbe00), to(#ffa000)); 
+    text-shadow:0 -2px 0 #ff7d00; }
+.rw2 { display:block; width:920px; margin:8px 0 0 15px; float:left; }
+
+#recoq01_01 { width:310px; height:58px; margin:25px 0 10px 95px; clear:both; }
+#recoq01_01 input { width:62px; height:58px; overflow:hidden; opacity:0.01; }
+#recoq01_01 label { display:block; width:62px; height:58px; overflow:hidden; float:left; }
+.bg_rating_00 { background:url(../image/reco/test00.png) 8px 6px no-repeat; }
+.bg_rating_01 { background:url(../image/reco/test01.png) 8px 6px no-repeat; }
+.bg_rating_02 { background:url(../image/reco/test02.png) 8px 6px no-repeat; }
+.bg_rating_03 { background:url(../image/reco/test03.png) 8px 6px no-repeat; }
+.bg_rating_04 { background:url(../image/reco/test04.png) 8px 6px no-repeat; }
+.bg_rating_05 { background:url(../image/reco/test05.png) 8px 6px no-repeat; }
+
+#recoq01_02 { margin:25px 0 0 90px; clear:both; }
+#recoq01_02 li { width:445px; min-height:50px; text-align:left; font-size:25px; float:left; }
+#recoq01_03 { margin:25px 0 0 90px; clear:both; }
+#recoq01_03 li { width:445px; min-height:50px; text-align:left; font-size:25px; float:left; }
+
+#reco01_submit { margin:10px 40px 35px 40px !important; }
+#reco01_submit a { display:block; width:1000px; height:70px; line-height:70px; font-size:27px; }
+.btn_disabled { width:1000px; height:70px; line-height:70px; margin:10px; font-size:27px; }
+.reco_penetration { opacity:0.5; }
+

@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="TextBox_0000">Nintendo eShop Manual - Table of Contents</entry>
+<entry key="TextBox_0001">eShop Manual</entry>
+<entry key="TextBox_0002">Nintendo eShop Manual - Table of Contents</entry>
+<entry key="TextBox_0003">Getting Started</entry>
+<entry key="TextBox_0004">    &lt;a href=&quot;manual01_01.html&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK&quot;&gt;&lt;span class=&quot;mm_num&quot;&gt;1&lt;/span&gt;    &lt;span class=&quot;mm_title&quot;&gt;Important Information&lt;/span&gt;&lt;/a&gt;</entry>
+<entry key="TextBox_0005">    &lt;a href=&quot;manual01_02.html&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK&quot;&gt;&lt;span class=&quot;mm_num&quot;&gt;2&lt;/span&gt;      &lt;span class=&quot;mm_title&quot;&gt;About Nintendo eShop&lt;/span&gt;&lt;/a&gt;</entry>
+<entry key="TextBox_0006">    &lt;a href=&quot;manual01_03.html&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK&quot;&gt;&lt;span class=&quot;mm_num&quot;&gt;3&lt;/span&gt;      &lt;span class=&quot;mm_title&quot;&gt;Welcome Screen&lt;/span&gt;&lt;/a&gt;</entry>
+<entry key="TextBox_0008">    &lt;a href=&quot;manual01_04.html&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK&quot;&gt;&lt;span class=&quot;mm_num&quot;&gt;4&lt;/span&gt;      &lt;span class=&quot;mm_title&quot;&gt;My Menu&lt;/span&gt;&lt;/a&gt;</entry>
+<entry key="TextBox_0012">Information</entry>
+<entry key="TextBox_0013">    &lt;a href=&quot;manual01_05.html&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK&quot;&gt;&lt;span class=&quot;mm_num&quot;&gt;5&lt;/span&gt;      &lt;span class=&quot;mm_title&quot;&gt;Search&lt;/span&gt;&lt;/a&gt;</entry>
+<entry key="TextBox_0014">    &lt;a href=&quot;manual01_06.html&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK&quot;&gt;&lt;span class=&quot;mm_num&quot;&gt;6&lt;/span&gt;      &lt;span class=&quot;mm_title&quot;&gt;Software Information&lt;/span&gt;&lt;/a&gt;</entry>
+<entry key="TextBox_0015">    &lt;a href=&quot;manual01_07.html&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK&quot;&gt;&lt;span class=&quot;mm_num&quot;&gt;7&lt;/span&gt;      &lt;span class=&quot;mm_title&quot;&gt;Watching Videos&lt;/span&gt;&lt;/a&gt;</entry>
+<entry key="TextBox_0016">Purchasing</entry>
+<entry key="TextBox_0017">    &lt;a href=&quot;manual01_08.html&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK&quot;&gt;&lt;span class=&quot;mm_num&quot;&gt;8&lt;/span&gt;      &lt;span class=&quot;mm_title&quot;&gt;Adding Funds&lt;/span&gt;&lt;/a&gt;</entry>
+<entry key="TextBox_0018">    &lt;a href=&quot;manual01_09.html&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK&quot;&gt;&lt;span class=&quot;mm_num&quot;&gt;9&lt;/span&gt;      &lt;span class=&quot;mm_title&quot;&gt;Acquiring Content&lt;/span&gt;&lt;/a&gt;</entry>
+<entry key="TextBox_0019">    &lt;a href=&quot;manual01_10.html&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK&quot;&gt;&lt;span class=&quot;mm_num&quot;&gt;10&lt;/span&gt;      &lt;span class=&quot;mm_title&quot;&gt;Acquiring Downloadable Content and Passes&lt;/span&gt;&lt;/a&gt;</entry>
+<entry key="TextBox_0020">Other Functions</entry>
+<entry key="TextBox_0021">    &lt;a href=&quot;manual01_11.html&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK&quot;&gt;&lt;span class=&quot;mm_num&quot;&gt;11&lt;/span&gt;      &lt;span class=&quot;mm_title&quot;&gt;Redeeming Download Codes&lt;/span&gt;&lt;/a&gt;</entry>
+<entry key="TextBox_0022">    &lt;a href=&quot;manual01_12.html&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK&quot;&gt;&lt;span class=&quot;mm_num&quot;&gt;12&lt;/span&gt;      &lt;span class=&quot;mm_title&quot;&gt;Charts&lt;/span&gt;&lt;/a&gt;</entry>
+<entry key="TextBox_0023">Detailed Information</entry>
+<entry key="TextBox_0024">    &lt;a href=&quot;manual01_13.html&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK&quot;&gt;&lt;span class=&quot;mm_num&quot;&gt;13&lt;/span&gt;      &lt;span class=&quot;mm_title&quot;&gt;Q&amp;A&lt;/span&gt;&lt;/a&gt;</entry>
+<entry key="TextBox_0025">    &lt;a href=&quot;manual01_14.html&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK&quot;&gt;&lt;span class=&quot;mm_num&quot;&gt;14&lt;/span&gt;      &lt;span class=&quot;mm_title&quot;&gt;How Totals Are Calculated&lt;/span&gt;&lt;/a&gt;</entry>
+<entry key="TextBox_0026">Close Manual</entry>
+<entry key="TextBox_0106">Important Information</entry>
+<entry key="TextBox_0100">Important Information</entry>
+<entry key="TextBox_0101">eShop Manual</entry>
+<entry key="TextBox_0102">Important Information</entry>
+<entry key="TextBox_0108">Please read this manual carefully before using the software.</entry>
+<entry key="TextBox_0103">This manual is a supplement to the Wii&amp;nbsp;U Operations Manual included with your system and provides additional information about your Wii&amp;nbsp;U™ system and features.&lt;br&gt;&lt;br&gt;Also, before using this software, please read the content of the &lt;img src=&quot;image/placeholder.png&quot; data-original=&quot;safe_i.jpg&quot; width=&quot;38&quot; height=&quot;38&quot; class=&quot;mid lazy&quot;/&gt; &lt;b&gt;Health and Safety Information&lt;/b&gt; application on the Wii&amp;nbsp;U Menu. It contains important information that will help you enjoy this software.</entry>
+<entry key="TextBox_0109">© 2012 Nintendo.&lt;br&gt;Trademarks are property of their respective owners.  Wii U is a trademark of Nintendo.</entry>
+<entry key="TextBox_0104">Close Manual</entry>
+<entry key="TextBox_0105">Contents</entry>
+<entry key="TextBox_0200">About Nintendo eShop</entry>
+<entry key="TextBox_0201">eShop Manual</entry>
+<entry key="TextBox_0202">About Nintendo eShop</entry>
+<entry key="TextBox_0203">Nintendo eShop is an online store where you can purchase downloadable software and other content for the Wii&amp;nbsp;U console. You can also view detailed information and introductory videos about software titles, as well as download demos.</entry>
+<entry key="TextBox_0220">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; You will need to add funds to your balance before you can make purchases. &lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_08.html&quot; class=&quot;cat03 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;8&lt;/a&gt;&lt;/span&gt;</entry>
+<entry key="TextBox_0221">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; If a single Nintendo Network ID is linked to both a Wii U console and a system in the Nintendo 3DS family, that ID will manage the balance and account activity of both, and the balance and account activity will be shared.</entry>
+<entry key="TextBox_0204">Software you can purchase</entry>
+<entry key="TextBox_0205">&lt;span&gt;●&lt;/span&gt; Wii&amp;nbsp;U Downloadable Software</entry>
+<entry key="TextBox_0206">You can purchase download-only Wii U software and downloadable versions of retail software for the Wii&amp;nbsp;U console.</entry>
+<entry key="TextBox_0212">&lt;span&gt;●&lt;/span&gt; Virtual Console</entry>
+<entry key="TextBox_0213">Retro games originally released on older consoles like the NES and Super NES.</entry>
+<entry key="TextBox_0214">A Notice about the Virtual Console&apos;s Special Pricing</entry>
+<entry key="TextBox_0215">Those users who already have the Wii Virtual Console version of a title will be able to purchase that same title for the Wii U Virtual Console at a special price. This offer applies whether the title was downloaded to a Wii console and transferred to the Wii U or purchased through the Wii Shop Channel on the Wii Menu. For details, please see the Nintendo home page.</entry>
+<entry key="TextBox_0207">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; You can restrict the use of the following features through Parental Controls on the Wii&amp;nbsp;U Menu. For more information, please see the Parental Controls section of the Wii&amp;nbsp;U electronic manual. The Wii U electronic manual can be displayed by pressing &lt;img src=&quot;image/placeholder.png&quot; data-original=&quot;HOMEbutton_i.png&quot; width=&quot;38&quot; height=&quot;38&quot; class=&quot;mid lazy&quot;/&gt; in the Wii U Menu and then selecting &lt;img src=&quot;image/placeholder.png&quot; data-original=&quot;manual_i.jpg&quot; width=&quot;38&quot; height=&quot;38&quot; class=&quot;mid lazy&quot;/&gt; in the HOME Menu.</entry>
+<entry key="TextBox_0216">Name</entry>
+<entry key="TextBox_0217">Description</entry>
+<entry key="TextBox_0218">Wii U Shopping Services</entry>
+<entry key="TextBox_0219">Restricts the purchase of software and use of credit cards.</entry>
+<entry key="TextBox_0211">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; &lt;img src=&quot;image/placeholder.png&quot; data-original=&quot;loading_i.png&quot; width=&quot;38&quot; height=&quot;38&quot; class=&quot;mid lazy&quot;/&gt; will be displayed on-screen when data is loading or saving. During saving, the HOME Menu will not be displayed even if you press &lt;img src=&quot;image/placeholder.png&quot; data-original=&quot;HOMEbutton_i.png&quot; width=&quot;38&quot; height=&quot;38&quot; class=&quot;mid lazy&quot;/&gt;.</entry>
+<entry key="TextBox_0208">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; The images used in this manual are examples. Actual screens may differ.</entry>
+<entry key="TextBox_0209">Close Manual</entry>
+<entry key="TextBox_0210">Contents</entry>
+<entry key="TextBox_0300">Welcome Screen</entry>
+<entry key="TextBox_0301">eShop Manual</entry>
+<entry key="TextBox_0302">Welcome Screen</entry>
+<entry key="TextBox_0303">All controls are performed by touching the Wii&amp;nbsp;U GamePad screen.</entry>
+<entry key="TextBox_0304">    &lt;span class=&quot;mdd_num&quot;&gt;&lt;a href=&quot;#manual_display_img&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;1&lt;/a&gt;&lt;/span&gt;    Sidebar options  </entry>
+<entry key="TextBox_0305">Return to the eShop Home screen of Nintendo eShop.</entry>
+<entry key="TextBox_0306">Confirm and configure various information.&lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_04.html&quot; class=&quot;cat01 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;4&lt;/a&gt;&lt;/span&gt;</entry>
+<entry key="TextBox_0312">Your current balance is displayed here. Tap to display the Add Funds screen. &lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_08.html&quot; class=&quot;cat03 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;8&lt;/a&gt;&lt;/span&gt;</entry>
+<entry key="TextBox_0313">You can search for software using keywords and filters like software type and genre. &lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_05.html&quot; class=&quot;cat02 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;5&lt;/a&gt;&lt;/span&gt;</entry>
+<entry key="TextBox_0314">Return to the previous screen.</entry>
+<entry key="TextBox_0315">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; If you are on the eShop Home screen, the Close button will be displayed. Select it to close Nintendo eShop.</entry>
+<entry key="TextBox_0316">    &lt;span class=&quot;mdd_num&quot;&gt;&lt;a href=&quot;#manual_display_img&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;2&lt;/a&gt;&lt;/span&gt;    Keyword Search &lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_05.html&quot; class=&quot;cat02 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;5&lt;/a&gt;&lt;/span&gt;</entry>
+<entry key="TextBox_0317">    &lt;span class=&quot;mdd_num&quot;&gt;&lt;a href=&quot;#manual_display_img&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;3&lt;/a&gt;&lt;/span&gt;Enter Download Code / Charts / News</entry>
+<entry key="TextBox_0318">&lt;span&gt;●&lt;/span&gt; Enter Download Code &lt;span class=&quot;go_to_link_02&quot;&gt;&lt;a href=&quot;manual01_11.html&quot; class=&quot;cat04 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;11&lt;/a&gt;&lt;/span&gt;</entry>
+<entry key="TextBox_0319">Here you can enter a download code to download software.</entry>
+<entry key="TextBox_0320">&lt;span&gt;●&lt;/span&gt; Charts &lt;span class=&quot;go_to_link_02&quot;&gt;&lt;a href=&quot;manual01_12.html&quot; class=&quot;cat04 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;12&lt;/a&gt;&lt;/span&gt;</entry>
+<entry key="TextBox_0321">You can view charts about software that is currently on sale, software others are recommending, and videos that others are watching.</entry>
+<entry key="TextBox_0322">&lt;span&gt;●&lt;/span&gt; News</entry>
+<entry key="TextBox_0323">Here you can view news from Nintendo eShop.</entry>
+<entry key="TextBox_0324">    &lt;span class=&quot;mdd_num&quot;&gt;&lt;a href=&quot;#manual_display_img&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;4&lt;/a&gt;&lt;/span&gt; Icons</entry>
+<entry key="TextBox_0325">Software, specials, and videos are listed here.</entry>
+<entry key="TextBox_0326">Close Manual</entry>
+<entry key="TextBox_0327">Contents</entry>
+<entry key="TextBox_0400">My Menu</entry>
+<entry key="TextBox_0401">eShop Manual</entry>
+<entry key="TextBox_0402">My Menu</entry>
+<entry key="TextBox_0403">Close Manual</entry>
+<entry key="TextBox_0404">Contents</entry>
+<entry key="TextBox_0405">Select My Menu in the sidebar to view and verify various information, such as software that you&apos;ve purchased and your account activity.</entry>
+<entry key="TextBox_0412">&lt;span&gt;●&lt;/span&gt; Help&lt;/h3&gt;</entry>
+<entry key="TextBox_0413">eShop Manual</entry>
+<entry key="TextBox_0414">Display the software&apos;s electronic manual.</entry>
+<entry key="TextBox_0415">About Nintendo eShop</entry>
+<entry key="TextBox_0421">View details about the Nintendo eShop service.</entry>
+<entry key="TextBox_0422">Customer Support</entry>
+<entry key="TextBox_0423">View a list of customer-support contacts.</entry>
+<entry key="TextBox_0416">&lt;span&gt;●&lt;/span&gt; Add Funds&lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_08.html&quot; class=&quot;cat03 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;8&lt;/a&gt;&lt;/span&gt;</entry>
+<entry key="TextBox_0417">Wish List</entry>
+<entry key="TextBox_0424">Software that you have added to your wish list is displayed here.</entry>
+<entry key="TextBox_0418">Select a software icon to proceed to the information screen for that title.&lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_06.html&quot; class=&quot;cat02 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;6&lt;/a&gt;&lt;/span&gt;</entry>
+<entry key="TextBox_0419">Select View List to display a list of the software that you&apos;ve added to your wish list.</entry>
+<entry key="TextBox_0425">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; You can have up to 200 items on your wish list at a time.</entry>
+<entry key="TextBox_0440">Rate Titles</entry>
+<entry key="TextBox_0441">Software that you can rate will be displayed here.</entry>
+<entry key="TextBox_0437">Select a software icon to recommend that software to others if you have played it. You will be asked to answer three questions based on how you would rate the game.</entry>
+<entry key="TextBox_0442">Select View List to display a list of the software that you are able to rate.</entry>
+<entry key="TextBox_0438">Ratings will be calculated, and the results will be published in Software Information &lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_06.html&quot; class=&quot;cat02 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;6&lt;/a&gt;&lt;/span&gt; and Charts &lt;span class=&quot;go_to_link_02&quot;&gt;&lt;a href=&quot;manual01_12.html&quot; class=&quot;cat04 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;12&lt;/a&gt;&lt;/span&gt;.</entry>
+<entry key="TextBox_0427">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; Users can submit one rating per title. You can only submit ratings for titles you have played for at least one hour.</entry>
+<entry key="TextBox_0429">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; There are some titles for which ratings cannot be submitted.</entry>
+<entry key="TextBox_0439">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; You can view your ratings by selecting Your Ratings.</entry>
+<entry key="TextBox_0420">History</entry>
+<entry key="TextBox_0406">&lt;span&gt;●&lt;/span&gt; Your Downloads</entry>
+<entry key="TextBox_0407">Here you can verify or redownload software and downloadable content that you have purchased.</entry>
+<entry key="TextBox_0408">&lt;span&gt;●&lt;/span&gt; Account Activity</entry>
+<entry key="TextBox_0409">View records of the software you have purchased and funds added to your balance. Select View Receipt to verify details about your purchases.</entry>
+<entry key="TextBox_0426">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; If a single Nintendo Network ID is linked to both a Wii U console and a system in the Nintendo 3DS family, the account activity of that console and system will be shared. However, please note that you will not be able view any account activity that predates a system in the Nintendo 3DS family&apos;s Nintendo Network ID link within Nintendo eShop for Wii U.</entry>
+<entry key="TextBox_0430">Settings</entry>
+<entry key="TextBox_0431">&lt;span&gt;●&lt;/span&gt; Notifications</entry>
+<entry key="TextBox_0432">Here you can configure whether or not you would like to receive notifications from Nintendo in Notifications on the Wii&amp;nbsp;U Menu.</entry>
+<entry key="TextBox_0443">&lt;span&gt;●&lt;/span&gt; Location Settings</entry>
+<entry key="TextBox_0444">You can enter, update, and delete your address information using this option.</entry>
+<entry key="TextBox_0445">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; Your address information is used to calculate tax on your software purchases.</entry>
+<entry key="TextBox_0446">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; The address you&apos;ve entered will only be used in Nintendo eShop.</entry>
+<entry key="TextBox_0447">&lt;span&gt;●&lt;/span&gt; Language</entry>
+<entry key="TextBox_0448">This option allows you to change the language in which you view Nintendo eShop. To apply language changes, you must close and reopen Nintendo eShop after adjusting this setting.</entry>
+<entry key="TextBox_0449">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; Language changes will only apply to Nintendo eShop.</entry>
+<entry key="TextBox_0500">Search</entry>
+<entry key="TextBox_0501">eShop Manual</entry>
+<entry key="TextBox_0502">Search</entry>
+<entry key="TextBox_0503">There are three different ways to search for software:</entry>
+<entry key="TextBox_0504">&lt;span class=&quot;mdd_num&quot;&gt;&lt;a href=&quot;#manual_display_img&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;1&lt;/a&gt;&lt;/span&gt;Keyword Search</entry>
+<entry key="TextBox_0505">Enter text, such as the title of the software you are looking for or a particular keyword, to search.</entry>
+<entry key="TextBox_0506">&lt;span class=&quot;mdd_num&quot;&gt;&lt;a href=&quot;#manual_display_img&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;2&lt;/a&gt;&lt;/span&gt;Search with filters</entry>
+<entry key="TextBox_0507">Search for software using keywords and filters, such as software type, genre, and more.</entry>
+<entry key="TextBox_0508">&lt;span class=&quot;mdd_num&quot;&gt;&lt;a href=&quot;#manual_display_img&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;3&lt;/a&gt;&lt;/span&gt;Search by software recommended by Nintendo</entry>
+<entry key="TextBox_0509">You can search using the icons in the eShop Home screen for specials, particular software types, etc.</entry>
+<entry key="TextBox_0510">Search Results</entry>
+<entry key="TextBox_0511">Software titles and related videos will display in the order of most to least recent. Tap a software title to view the Software Information screen. Also, by tapping Add to Wish List you can add the software title to your Wish List &lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_04.html&quot; class=&quot;cat01 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;4&lt;/a&gt;&lt;/span&gt;.</entry>
+<entry key="TextBox_0512">&lt;span class=&quot;mdd_num&quot;&gt;&lt;a href=&quot;#mdd_img&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;1&lt;/a&gt;&lt;/span&gt; You can sort by Latest, Rating, or Name.</entry>
+<entry key="TextBox_0513">&lt;span class=&quot;mdd_num&quot;&gt;&lt;a href=&quot;#mdd_img&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;2&lt;/a&gt;&lt;/span&gt; In the Software Information screen, items that you can download will display with the following icons.</entry>
+<entry key="TextBox_0515">&lt;img src=&quot;image/placeholder.png&quot; data-original=&quot;ico_search_soft_dmm01_02.jpg&quot; width=&quot;57&quot; height=&quot;51&quot; class=&quot;lazy&quot;/&gt; Demo</entry>
+<entry key="TextBox_0516">&lt;img src=&quot;image/placeholder.png&quot; data-original=&quot;ico_search_soft_dmm01_03.jpg&quot; width=&quot;57&quot; height=&quot;51&quot; class=&quot;lazy&quot;/&gt; Downloadable Content</entry>
+<entry key="TextBox_0517">Close Manual</entry>
+<entry key="TextBox_0518">Contents</entry>
+<entry key="TextBox_0600">Software Information</entry>
+<entry key="TextBox_0601">eShop Manual</entry>
+<entry key="TextBox_0602">Software Information</entry>
+<entry key="TextBox_0603">Select More Details to view the software-information screen.</entry>
+<entry key="TextBox_0604">You can view details about a software title, purchase it, or add it to your wish list. Also, for certain software titles, you may be able to download a demo version or purchase a pass or downloadable content.</entry>
+<entry key="TextBox_0621">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; The options that display will differ, depending on the title.</entry>
+<entry key="TextBox_0605">&lt;span&gt;●&lt;/span&gt; Proceed to Purchase Screen&lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_09.html&quot; class=&quot;cat03 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;9&lt;/a&gt;&lt;/span&gt;</entry>
+<entry key="TextBox_0622">&lt;span&gt;●&lt;/span&gt; Add to Wish List</entry>
+<entry key="TextBox_0615">Tap to add the title to your wish list. &lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_04.html&quot; class=&quot;cat01 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;4&lt;/a&gt;&lt;/span&gt;</entry>
+<entry key="TextBox_0623">&lt;span&gt;●&lt;/span&gt; Download Demo</entry>
+<entry key="TextBox_0609"> Indicates that a free demo is available for download.      &lt;p class=&quot;indent02&quot;&gt;&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; There may be cases where the play time of a demo or the number of times it can be started are limited. Note that erasing and redownloading such a demo will not reset these limits.&lt;/p&gt;      &lt;p class=&quot;indent02&quot;&gt;&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; The time and count limit is shared by all users registered to that console.&lt;/p&gt;</entry>
+<entry key="TextBox_0606">&lt;span&gt;●&lt;/span&gt; View Downloadable Content&lt;span class=&quot;go_to_link_02&quot;&gt;&lt;a href=&quot;manual01_10.html&quot; class=&quot;cat03 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;10&lt;/a&gt;&lt;/span&gt;</entry>
+<entry key="TextBox_0607">&lt;span&gt;●&lt;/span&gt; Purchase Pass&lt;span class=&quot;go_to_link_02&quot;&gt;&lt;a href=&quot;manual01_10.html&quot; class=&quot;cat03 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;10&lt;/a&gt;&lt;/span&gt;</entry>
+<entry key="TextBox_0608">About Rate Titles</entry>
+<entry key="TextBox_0616">Under Ratings for This Software, displayed in the software-information screen, the average of the ratings submitted by everyone in Rate Titles &lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_04.html&quot; class=&quot;cat01 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;4&lt;/a&gt;&lt;/span&gt; is displayed in half-★ units.</entry>
+<entry key="TextBox_0617">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; Unreleased software titles will not be displayed here.</entry>
+<entry key="TextBox_0618">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; For more on how calculations are made in Rate Titles, please see How Totals Are Calculated.&lt;br&gt;&lt;span class=&quot;go_to_link_02&quot;&gt;&lt;a href=&quot;manual01_14.html&quot; class=&quot;cat05 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;14&lt;/a&gt;&lt;/span&gt;</entry>
+<entry key="TextBox_0619">Close Manual</entry>
+<entry key="TextBox_0620">Contents</entry>
+<entry key="TextBox_0700">Watching Videos</entry>
+<entry key="TextBox_0701">eShop Manual</entry>
+<entry key="TextBox_0702">Watching Videos</entry>
+<entry key="TextBox_0703">Some software titles will have videos available on the relevant software-information screen.</entry>
+<entry key="TextBox_0704">&lt;span class=&quot;mdd_num&quot;&gt;&lt;a href=&quot;#manual_display_img&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;1&lt;/a&gt;&lt;/span&gt;Pause/resume button</entry>
+<entry key="TextBox_0705">Select to pause the video, and select again to resume playback.</entry>
+<entry key="TextBox_0706">&lt;span class=&quot;mdd_num&quot;&gt;&lt;a href=&quot;#manual_display_img&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;2&lt;/a&gt;&lt;/span&gt;Playback bar</entry>
+<entry key="TextBox_0707">Displays the playback progress. Slide &lt;img src=&quot;image/placeholder.png&quot; data-original=&quot;movie_01.png&quot; width=&quot;25&quot; class=&quot;lazy&quot;/&gt; to advance or rewind the video.</entry>
+<entry key="TextBox_0708">&lt;span class=&quot;mdd_num&quot;&gt;&lt;a href=&quot;#manual_display_img&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;3&lt;/a&gt;&lt;/span&gt;Full-screen button</entry>
+<entry key="TextBox_0709">Maximizes the video to display across the entire TV screen. Select again to return the video to its normal size.</entry>
+<entry key="TextBox_0710">&lt;span class=&quot;mdd_num&quot;&gt;&lt;a href=&quot;#manual_display_img&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;4&lt;/a&gt;&lt;/span&gt;Options</entry>
+<entry key="TextBox_0711">The title of the video (as well as related videos) will be displayed. You can also change the video quality or select Software Information to see more about that software title.</entry>
+<entry key="TextBox_0712">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; Depending on your Internet-connection speed, you may experience stuttering in video or audio playback.</entry>
+<entry key="TextBox_0716">Buttons and Control-Stick Controls</entry>
+<entry key="TextBox_0717">You can also control video playback using the buttons and control sticks on the Wii U GamePad.</entry>
+<entry key="TextBox_0720">Display/hide tool bar</entry>
+<entry key="TextBox_0722">Play/Stop</entry>
+<entry key="TextBox_0724">Fast-forward/Rewind</entry>
+<entry key="TextBox_0726">Advance 15 seconds</entry>
+<entry key="TextBox_0728">Double playback speed</entry>
+<entry key="TextBox_0730">Hold down &lt;img src=&quot;image/placeholder.png&quot; data-original=&quot;WU_R.png&quot; width=&quot;82&quot; height=&quot;37&quot; class=&quot;mid lazy&quot;/&gt;</entry>
+<entry key="TextBox_0729">Rewind 10 seconds</entry>
+<entry key="TextBox_0732">End playback</entry>
+<entry key="TextBox_0713">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; You cannot save videos to the system memory, USB storage devices, or SD Cards.</entry>
+<entry key="TextBox_0714">Close Manual</entry>
+<entry key="TextBox_0715">Contents</entry>
+<entry key="TextBox_0800">Adding Funds</entry>
+<entry key="TextBox_0801">eShop Manual</entry>
+<entry key="TextBox_0802">Adding Funds</entry>
+<entry key="TextBox_0803">Select Balance on the sidebar to display the Add Funds screen.</entry>
+<entry key="TextBox_0820">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; Balances are individual to each user&apos;s Nintendo Network ID.</entry>
+<entry key="TextBox_0804">You will need at least one of the following to add funds:</entry>
+<entry key="TextBox_0805">Nintendo Prepaid Card</entry>
+<entry key="TextBox_0806">Nintendo Prepaid Code</entry>
+<entry key="TextBox_0807">Credit Card</entry>
+<entry key="TextBox_0808">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; The funds you add can only be used in Nintendo eShop. You will not be able to use these funds in the Wii Shop Channel.</entry>
+<entry key="TextBox_0824">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; If a single Nintendo Network ID is linked to both a Wii U console and a system in the Nintendo 3DS family, you will be able to use that ID&apos;s balance in Nintendo eShop for Nintendo 3DS as well as in Nintendo eShop for Wii U.</entry>
+<entry key="TextBox_0809">Add Funds with a Nintendo Prepaid Card</entry>
+<entry key="TextBox_0810">Add funds by redeeming a Nintendo Prepaid Card.</entry>
+<entry key="TextBox_0811">Add Funds with a Credit Card</entry>
+<entry key="TextBox_0812">Select this to use a credit card. You can view the receipt in My Menu ⇒ Account Activity.&lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_04.html&quot; class=&quot;cat01 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;4&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;You can also store your credit-card information, allowing you to add funds in the future by simply entering a password.</entry>
+<entry key="TextBox_0814">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; Please note that if you incorrectly enter this password three times, the credit-card information will be deleted.</entry>
+<entry key="TextBox_0815">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; If you&apos;ve forgotten your password, please delete the credit-card information and then store it again.</entry>
+<entry key="TextBox_0821">Review Credit-Card Information</entry>
+<entry key="TextBox_0822">Here you can verify and delete credit-card information.</entry>
+<entry key="TextBox_0823">&lt;span&gt;&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt;&lt;/span&gt;Users under the age of 18 cannot use a credit card. If you are under 18 and purchasing something with a credit card, make sure you get permission from a parent or guardian. Follow the on-screen instructions to make a purchase.</entry>
+<entry key="TextBox_0816">Limits on Adding Funds</entry>
+<entry key="TextBox_0817">Here you can view the limits on adding funds.</entry>
+<entry key="TextBox_0818">Close Manual</entry>
+<entry key="TextBox_0819">Contents</entry>
+<entry key="TextBox_0900">Acquiring Content</entry>
+<entry key="TextBox_0901">eShop Manual</entry>
+<entry key="TextBox_0902">Acquiring Content</entry>
+<entry key="TextBox_0903">Close Manual</entry>
+<entry key="TextBox_0904">Contents</entry>
+<entry key="TextBox_0905">Select Proceed to Purchase Screen on the software-information screen &lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_06.html&quot; class=&quot;cat02 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;6&lt;/a&gt;&lt;/span&gt; or the Search Results screen &lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_05.html&quot; class=&quot;cat02 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;5&lt;/a&gt;&lt;/span&gt;, and then follow the on-screen instructions to make your purchase.</entry>
+<entry key="TextBox_0906">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; After purchasing content, it will automatically begin downloading. You can check your download progress in Download Management on the HOME Menu.</entry>
+<entry key="TextBox_0907">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; Use of purchased software is not limited to the user that purchased it. Any user registered on that same console can use it.</entry>
+<entry key="TextBox_1000">Acquiring Downloadable Content and Passes</entry>
+<entry key="TextBox_1001">eShop Manual</entry>
+<entry key="TextBox_1002">Acquiring Downloadable Content and Passes</entry>
+<entry key="TextBox_1003">On the software-information screen, you can purchase downloadable content and passes for that software title. &lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_09.html&quot; class=&quot;cat03 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;9&lt;/a&gt;&lt;/span&gt;</entry>
+<entry key="TextBox_1004">Purchasing Downloadable Content</entry>
+<entry key="TextBox_1005">You can purchase downloadable content if it is available.</entry>
+<entry key="TextBox_1006">&lt;span&gt;●&lt;/span&gt; Search Downloadable Content</entry>
+<entry key="TextBox_1007">The downloadable content available for a software title can be filtered by keyword, genre, and price.</entry>
+<entry key="TextBox_1008">&lt;span&gt;●&lt;/span&gt; More Details</entry>
+<entry key="TextBox_1009">Select to display more details about that downloadable content.</entry>
+<entry key="TextBox_1010">&lt;span&gt;●&lt;/span&gt; Check box</entry>
+<entry key="TextBox_1011">Tap &lt;img src=&quot;image/placeholder.png&quot; data-original=&quot;adc_checkbox_off.png&quot; width=&quot;44&quot; height=&quot;44&quot; class=&quot;mid lazy&quot;/&gt; next to the downloadable content you want to purchase, and it will become &lt;img src=&quot;image/placeholder.png&quot; data-original=&quot;adc_checkbox_on.png&quot; width=&quot;44&quot; height=&quot;44&quot; class=&quot;mid lazy&quot;/&gt;. After selecting View Checked Items, select Next to proceed to the purchase screen. Please follow the on-screen instructions to make a purchase.</entry>
+<entry key="TextBox_1012">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; The types and prices of the downloadable content will vary, depending on the software title.</entry>
+<entry key="TextBox_1013">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; You can view your purchase history in My Menu ⇒ Account Activity. &lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_04.html&quot; class=&quot;cat01 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;4&lt;/a&gt;&lt;/span&gt;</entry>
+<entry key="TextBox_1014">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; Downloadable content cannot be returned, refunded, or exchanged.</entry>
+<entry key="TextBox_1015">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; Downloadable content, once purchased, can be redownloaded free of charge even if you delete it.</entry>
+<entry key="TextBox_1016">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; You will not be able to redownload any content if the Nintendo Network ID used to purchase it is deleted.</entry>
+<entry key="TextBox_1017">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; Note that if the distribution of a particular piece of content is canceled or ended, you will not be able to redownload it.</entry>
+<entry key="TextBox_1018">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; Downloadable content you&apos;ve purchased will be saved in the same location where software is saved.</entry>
+<entry key="TextBox_1019">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; Use of downloadable content is not limited to the user that purchased it. Anyone using the same console can use it.</entry>
+<entry key="TextBox_1020">Purchasing Passes</entry>
+<entry key="TextBox_1021">You can buy passes for services that use them.</entry>
+<entry key="TextBox_1022">All passes (temporary licenses to use a service or piece of software) have a specific period of time during which they are valid. This period begins at the time of purchase. Should you purchase an additional pass before the current pass expires, the new pass&apos;s time will be added to the end of the current one.</entry>
+<entry key="TextBox_1023">&lt;span&gt;●&lt;/span&gt; Example 1: Purchase a 30-day pass...</entry>
+<entry key="TextBox_1024">&lt;span&gt;●&lt;/span&gt; Example 2: Purchase a 30-day pass before the current pass expires...</entry>
+<entry key="TextBox_1025">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; The types and prices of these passes will differ depending on the software title.</entry>
+<entry key="TextBox_1026">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; If the pass expires, it will not be automatically renewed, even if there are funds in your balance. Please purchase passes as you need them.</entry>
+<entry key="TextBox_1027">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; You can view purchase history, such as the date passes were purchased (which is also their start date), in My Menu ⇒ Account Activity. &lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_04.html&quot; class=&quot;cat01 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;4&lt;/a&gt;&lt;/span&gt;</entry>
+<entry key="TextBox_1028">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; Passes cannot be returned, refunded, or exchanged.</entry>
+<entry key="TextBox_1029">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; Use of a pass is not limited to the user that purchased it. Anyone using the same console can use it.</entry>
+<entry key="TextBox_1030">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; If you want to extend a current pass by purchasing another, make sure that you are signed in as the user who made the original purchase.</entry>
+<entry key="TextBox_1031">Close Manual</entry>
+<entry key="TextBox_1032">Contents</entry>
+<entry key="TextBox_1033">◆Please note, some downloadable content cannot be filtered by genre.</entry>
+<entry key="TextBox_1100">Redeeming Download Codes</entry>
+<entry key="TextBox_1101">eShop Manual</entry>
+<entry key="TextBox_1102">Redeeming Download Codes</entry>
+<entry key="TextBox_1103">Select Enter Download Code on the eShop Home screen to redeem download codes and download software.</entry>
+<entry key="TextBox_1104">What Are Download Codes?</entry>
+<entry key="TextBox_1105">A download code is a 16-character code used to download software titles, downloadable content, and passes both paid and free.</entry>
+<entry key="TextBox_1106">Purchasing Download Codes</entry>
+<entry key="TextBox_1107">You can purchase download codes from certain retail stores that carry Nintendo products.</entry>
+<entry key="TextBox_1108">You can also purchase download codes directly from certain online shops.</entry>
+<entry key="TextBox_1109">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; The method of purchasing codes will differ depending on the retailer. For details, please visit Nintendo&apos;s website.</entry>
+<entry key="TextBox_1110">Close Manual</entry>
+<entry key="TextBox_1111">Contents</entry>
+<entry key="TextBox_1200">Charts</entry>
+<entry key="TextBox_1201">eShop Manual</entry>
+<entry key="TextBox_1202">Charts</entry>
+<entry key="TextBox_1203">Select Charts on the eShop Home screen to see currently available software and charts of the most popular software and videos.</entry>
+<entry key="TextBox_1204">&lt;span class=&quot;mdd_num&quot;&gt;&lt;a href=&quot;#manual_display_img&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;1&lt;/a&gt;&lt;/span&gt;    Select chart type</entry>
+<entry key="TextBox_1205">The Recent Releases and Recently Popular charts cover the most recent two-week period. The Recent Ratings chart covers the last 12 weeks.</entry>
+<entry key="TextBox_1206">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; For more on how totals are calculated for ratings, see How Totals Are Calculated. &lt;span class=&quot;go_to_link_02&quot;&gt;&lt;a href=&quot;manual01_14.html&quot; class=&quot;cat05 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;14&lt;/a&gt;&lt;/span&gt;</entry>
+<entry key="TextBox_1207">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; If multiple software titles share the same chart position, they will be sorted from newest to oldest.</entry>
+<entry key="TextBox_1208">    &lt;span class=&quot;mdd_num&quot;&gt;&lt;a href=&quot;#manual_display_img&quot; class=&quot;se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;2&lt;/a&gt;&lt;/span&gt;    Filter by...</entry>
+<entry key="TextBox_1209">You can also filter software titles by type.</entry>
+<entry key="TextBox_1210">Close Manual</entry>
+<entry key="TextBox_1211">Contents</entry>
+<entry key="TextBox_1300">Q&amp;A</entry>
+<entry key="TextBox_1301">eShop Manual</entry>
+<entry key="TextBox_1302">Q&amp;A</entry>
+<entry key="TextBox_1303">&lt;span&gt;●&lt;/span&gt; Purchasing Software</entry>
+<entry key="TextBox_1304">&lt;h3&gt;Q&lt;/h3&gt;How do I pay for software?</entry>
+<entry key="TextBox_1305">&lt;h3&gt;A&lt;/h3&gt;Funds will be taken from the balance associated with your Nintendo Network ID. The balance must already have had funds added to it.</entry>
+<entry key="TextBox_1374">&lt;h3&gt;Q&lt;/h3&gt;Using Coupon Codes</entry>
+<entry key="TextBox_1375">&lt;h3&gt;A&lt;/h3&gt;If you&apos;ve received a coupon code (for example, as part of a special offer or promotion), select the Redeem Coupon Code option during the purchase process, and then follow the instructions that appear on the screen.</entry>
+<entry key="TextBox_1306">&lt;h3&gt;Q&lt;/h3&gt;What can I use to add funds?</entry>
+<entry key="TextBox_1307">A</entry>
+<entry key="TextBox_1308">You can use the following.</entry>
+<entry key="TextBox_1309">Nintendo Prepaid Card</entry>
+<entry key="TextBox_1310">A credit card</entry>
+<entry key="TextBox_1311">You cannot use the following.</entry>
+<entry key="TextBox_1312">Wii Points Card</entry>
+<entry key="TextBox_1313">Wii Points Prepaid Code</entry>
+<entry key="TextBox_1314">Nintendo Points Card</entry>
+<entry key="TextBox_1315">Nintendo Points Prepaid Code</entry>
+<entry key="TextBox_1316">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt;For details, please see Purchasing a Nintendo Prepaid Code in the Add Funds screen.      &lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_08.html&quot; class=&quot;cat03 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;8&lt;/a&gt;&lt;/span&gt;</entry>
+<entry key="TextBox_1317">&lt;h3&gt;Q&lt;/h3&gt;Where can I buy a Nintendo Prepaid Card?</entry>
+<entry key="TextBox_1318">&lt;h3&gt;A&lt;/h3&gt;You can buy them at retail stores that carry Nintendo products.</entry>
+<entry key="TextBox_1319">&lt;h3&gt;Q&lt;/h3&gt;How do I use Nintendo Prepaid Cards?</entry>
+<entry key="TextBox_1320">&lt;h3&gt;A&lt;/h3&gt;Scratch the back of the card to reveal the 16-character alphanumeric code, and enter the code to add funds.    &lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_08.html&quot; class=&quot;cat03 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;8&lt;/a&gt;&lt;/span&gt;</entry>
+<entry key="TextBox_1323">&lt;h3&gt;Q&lt;/h3&gt;What credit cards can I use?</entry>
+<entry key="TextBox_1324">&lt;h3&gt;A&lt;/h3&gt;You can use VISA and MasterCard.</entry>
+<entry key="TextBox_1325">&lt;h3&gt;Q&lt;/h3&gt;Can I use Wii Points from the Wii Shop Channel to purchase software?</entry>
+<entry key="TextBox_1326">&lt;h3&gt;A&lt;/h3&gt;No. Wii Points can only be used in the Wii Shop Channel.</entry>
+<entry key="TextBox_1356">&lt;h3&gt;Q&lt;/h3&gt;Can I make purchases using my balance on the Nintendo eShop for Nintendo 3DS?</entry>
+<entry key="TextBox_1357">&lt;h3&gt;A&lt;/h3&gt;You can, as long as your Wii&amp;nbsp;U console and system in the Nintendo 3DS family are both linked to the same Nintendo Network ID.</entry>
+<entry key="TextBox_1354">&lt;h3&gt;Q&lt;/h3&gt;After purchasing a software title, where can I verify an issued code?</entry>
+<entry key="TextBox_1355">&lt;h3&gt;A&lt;/h3&gt;This can be viewed on your software receipt. You can check the receipt at any time by selecting (from the Nintendo eShop menu bar) My Menu ⇒ Account Activity ⇒ View Receipt. Please see the Issued Codes item.</entry>
+<entry key="TextBox_1358">&lt;h3&gt;Q&lt;/h3&gt;Can I view the account activity for a system in the Nintendo 3DS family that is linked to the same Nintendo Network ID?</entry>
+<entry key="TextBox_1359">&lt;h3&gt;A&lt;/h3&gt;Yes, you can. However, please note that you will not be able to view any account activity that predates that system&apos;s Nintendo Network ID link on your Wii U system.</entry>
+<entry key="TextBox_1327">&lt;span&gt;●&lt;/span&gt; Software Related</entry>
+<entry key="TextBox_1328">&lt;h3&gt;Q&lt;/h3&gt;Are manuals available for software purchased on Nintendo eShop?</entry>
+<entry key="TextBox_1329">&lt;h3&gt;A&lt;/h3&gt;They are! While the software is in use, press the HOME Button, and then select Manual in the HOME Menu to view the electronic manual.</entry>
+<entry key="TextBox_1330">&lt;h3&gt;Q&lt;/h3&gt;Does it cost money to redownload software I&apos;ve purchased before?</entry>
+<entry key="TextBox_1331">&lt;h3&gt;A&lt;/h3&gt;No, software can be redownloaded for free, as long as the Nintendo Network ID used to purchase it has not been deleted. However, please note that there may be situations when software will be temporarily or permanently removed from the service. In such cases you will not be able to redownload the software.</entry>
+<entry key="TextBox_1332">&lt;span&gt;●&lt;/span&gt; Data Management</entry>
+<entry key="TextBox_1333">&lt;h3&gt;Q&lt;/h3&gt;How long will it take for purchased software to download?</entry>
+<entry key="TextBox_1334">&lt;h3&gt;A&lt;/h3&gt; Depending on the size of the data and the Internet environment, downloading may take a long time.</entry>
+<entry key="TextBox_1353">You can view the download progress in Download Management, from the HOME Menu.</entry>
+<entry key="TextBox_1335">&lt;h3&gt;Q&lt;/h3&gt;Where will purchased software be saved?</entry>
+<entry key="TextBox_1336">&lt;h3&gt;A&lt;/h3&gt; It will be saved in the system memory or a separate USB storage device (sold separately). You cannot save software to an SD Card. For details, please see Data Management in System Settings on the Wii U Menu.</entry>
+<entry key="TextBox_1337">&lt;h3&gt;Q&lt;/h3&gt;Can software be copied or moved between the system memory and a USB storage device?</entry>
+<entry key="TextBox_1338">&lt;h3&gt;A&lt;/h3&gt;Yes. For details, please see System Settings ⇒ Data Management, in the Wii U Menu.</entry>
+<entry key="TextBox_1348">&lt;span&gt;●&lt;/span&gt; Customer Support</entry>
+<entry key="TextBox_1349">&lt;h3&gt;Q&lt;/h3&gt;Where should I go to for customer support?</entry>
+<entry key="TextBox_1350">&lt;h3&gt;A&lt;/h3&gt;Who you should contact depends on the issue you are experiencing. See My Menu ⇒ Help ⇒ Customer Support for details.    &lt;span class=&quot;go_to_link_01&quot;&gt;&lt;a href=&quot;manual01_04.html&quot; class=&quot;cat01 se&quot; data-se-label=&quot;SE_WAVE_OK_SUB&quot;&gt;4&lt;/a&gt;</entry>
+<entry key="TextBox_1351">Close Manual</entry>
+<entry key="TextBox_1352">Contents</entry>
+<entry key="TextBox_1400">How Totals Are Calculated</entry>
+<entry key="TextBox_1401">eShop Manual</entry>
+<entry key="TextBox_1402">How Totals Are Calculated</entry>
+<entry key="TextBox_1403">User-rating totals in Rate Titles and viewing totals for videos are calculated in the following ways.</entry>
+<entry key="TextBox_1404">&lt;span&gt;●&lt;/span&gt; Ratings</entry>
+<entry key="TextBox_1405">An average is calculated from the ratings submitted in Rate Titles and displayed in half-★ units.</entry>
+<entry key="TextBox_1406">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font &gt;Ratings for a software title will be shown after the first rating is submitted.</entry>
+<entry key="TextBox_1407">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; In order to calculate a more accurate average, the highest and lowest 5% of the ratings will be left out of the calculation.</entry>
+<entry key="TextBox_1408">&lt;span&gt;●&lt;/span&gt; Software Charts</entry>
+<entry key="TextBox_1409">The number of ratings for each title is calculated, and those software titles that have 20 or more ratings will be displayed in order of highest rated to lowest.</entry>
+<entry key="TextBox_1410">&lt;span&gt;●&lt;/span&gt; Video Charts</entry>
+<entry key="TextBox_1411">The number of times a video has been viewed in Nintendo eShop will be calculated, and then it will be displayed in the order of highest to lowest number of views.</entry>
+<entry key="TextBox_1412">Timing of Updates</entry>
+<entry key="TextBox_1413">Results are calculated and updated every three hours. (Newer ratings and video views are not immediately reflected in the total.)</entry>
+<entry key="TextBox_1414">&lt;font color=&quot;0196c8&quot;&gt;◆&lt;/font&gt; Depending on the system conditions, this time frame may change and there may be cases where it takes longer for data to be reflected.</entry>
+<entry key="TextBox_1415">Close Manual</entry>
+<entry key="TextBox_1416">Contents</entry>
+</properties>
