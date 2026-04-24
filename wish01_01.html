@@ -1,0 +1,63 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="Content-Script-Type" content="text/javascript"><meta http-equiv="Content-Style-Type" content="text/css"><link rel="stylesheet" href="css/minified/wish01_01.css"></head><body><div id="wrapper"><div id="wish01_01"><div id="header"><h1 data-message="wish01_01_001"></h1><span id="sel_total" class="total"></span><div id="sh_select" class="filter"><span data-message="common01_01_061"></span> <select id="platform_filter"><option value="both" data-message="always02_01_027" selected="selected"></option><option value="cafe" data-message="always02_01_031"></option><option value="ctr" data-message="always02_01_032"></option></select></div></div><div id="main"><div class="pagenation"></div><ul id="sel_wish_list" class="list-item"></ul><div class="pagenation"></div></div><div id="main-disable" style="display: none"><p data-message="wish01_01_006"></p></div></div><div id="sel_menu_bar"></div></div><script id="template_wish_list" type="text/x-jquery-tmpl"><li class="{{if disabled}}item-disabled{{else}}item{{/if}}" data-title-id="${ data_title_id }" data-esales-flg="${ eshop_sales }">
+ <ul class="status">
+ {{if is_pre_order}} <li class="status-pre-order"><span>${str_pre_order}</span></li>{{/if}}
+ {{if is_normal_discount}}<li class="status-sale"><span>${str_sale}</span></li>{{/if}}
+ {{if is_conditional_discount}}<li class="status-conditional"><span>${str_conditional_sale}</span></li>{{/if}}
+ {{if is_coupon_discount}}<li class="status-owned-coupon"><span>${str_owned_coupon}</span></li>{{/if}}
+ </ul>
+ {{if disabled}}
+ <div class="outline-disabled">
+ {{else}}
+ <a href="${ url_detail }" class="outline se" data-se-label="SE_WAVE_OK">
+ {{/if}}
+   {{if !disabled}}
+   <div class="icon">
+     <div class="{{if device === "CTR"}}p-icon-ctr-M{{else}}p-icon-wup-L{{/if}}">
+     {{if device === "WUP"}}
+     <img src="image/placeholder/place_icon_wii_u.png" data-original="${ icon_url }" class="lazy" width="128" height="128" />
+     {{else device === "CTR"}}
+     <img src="image/placeholder/place_icon_3ds.png" data-original="${ icon_url }" class="lazy" width="72" height="72" />
+     {{else}}
+     <img src="image/placeholder/place_icon_wii_u.png" data-original="${ icon_url }" class="lazy" width="128" height="128" />
+     {{/if}}
+     </div>
+   </div>
+   {{/if}}
+   <div class="title">
+     <div class="name">{{html str_title}}</div>
+     <div class="spec">
+       <span class="star-rating">
+       {{if has_rating}}
+       <img src="${ rating_img_path }" width="165" height="29" />{{if rating_votes}}(${ rating_votes }){{else}}&nbsp;{{/if}}
+       {{else}}
+       <img src="image/shelf01_01/img_relating_00.png" width="165" height="29">
+       {{/if}}
+       </span>
+       <span class="platform {{if device === "CTR"}}text-ctr{{else}}text-wup{{/if}}">${ platform_name }</span>
+       <span class="release-date">${ str_date } ${ str_date_info }</span>
+       <span class="rating">${ str_rating }</span>
+     </div>
+     <div class="price">
+       {{if (is_normal_discount || is_conditional_discount || is_coupon_discount) }}
+       <span class="strike-through"><span class="ordinary-price">${ regular_price }</span></span>
+       <span class="{{if is_coupon_discount}}owned_coupon{{else is_conditional_discount}}conditional{{else is_normal_discount}}sale{{/if}}">{{html discount_price }}</span>
+       {{else}}
+       <span class="strike-through"><span class="ordinary-price"></span></span>
+       <span>{{html regular_price }}</span>
+       {{/if}}
+     </div>
+     </div>
+ {{if disabled}}
+ </div>
+ {{else}}
+ </a>
+ {{/if}}
+ {{if !disabled}}
+ <a href="#" id="remove_button_${ data_title_id }" class="remove">
+   <span></span>
+ </a>
+ {{/if}}
+ </li></script><div style="display: none"><span id="str_date" data-message="wish01_01_009"></span> <span id="str_data" data-message="wish01_01_004"></span><span id="dialog_msg" data-message="wish01_01_007"></span> <span id="dialog_cancel" data-message="common01_01_007_02"></span> <span id="dialog_ok" data-message="wish01_01_003_02"></span> <span id="str_tax_included"><span class="tax-included" data-message="buy02_01_004"></span></span> <span id="str_tax_included_au"><span class="tax-included" data-message="buy02_01_004_02"></span></span> <span id="str_release_retail" data-message="data01_01_013"></span> <span id="str_release_eshop" data-message="data01_01_013_02"></span> <span id="str_release_ymd" data-message="common01_01_015"></span> <span id="str_release_ym" data-message="common01_01_015_02"></span> <span id="str_release_y" data-message="common01_01_015_03"></span> <span id="str_available_ymd" data-message="common01_01_016"></span> <span id="str_available_ym" data-message="common01_01_016_02"></span> <span id="str_available_y" data-message="common01_01_016_03"></span> <span id="str_unreleased_eshop" data-message="data01_01_047_02"></span> <span id="str_unreleased_retail" data-message="data01_01_047"></span> <span id="str_total" data-message="wish01_01_011"></span> <span id="str_sale" data-message="common01_01_047"></span> <span id="str_owned_coupon" data-message="common01_01_084"></span> <span id="str_pre_order" data-message="common01_01_077"></span> <span id="str_conditional_sale" data-message="common01_01_070"></span> <span id="str_to" data-message="common01_01_085"></span></div><script type="text/javascript" src="js/minified/extlibs.js?ts=1661318669" onerror="wiiuErrorViewer.openByCode(1119000);wiiuBrowser.jumpToHomeButtonMenu();"></script><script type="text/javascript" src="js/minified/woodlibs.js?ts=1661318669" onerror="wiiuErrorViewer.openByCode(1119000);wiiuBrowser.jumpToHomeButtonMenu();"></script><script type="text/javascript" src="js/minified/wish01_01.js?ts=1661318669" onerror="wiiuErrorViewer.openByCode(1119000);wiiuBrowser.jumpToHomeButtonMenu();"></script><script type="text/javascript" src="js/minified/analytics.js?ts=1661318669" onerror="wiiuErrorViewer.openByCode(1119000);wiiuBrowser.jumpToHomeButtonMenu();"></script><script lang="javascript">$(document).ready(function() {
+    new Wood.Controller.Wish01_01;
+    Backbone.history.start({});
+});</script></body></html>
