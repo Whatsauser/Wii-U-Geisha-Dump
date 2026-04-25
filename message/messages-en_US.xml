@@ -76,6 +76,7 @@
 <entry key="common01_01_072">View List</entry>
 <entry key="common01_01_073">Please check your local retailer.</entry>
 <entry key="common01_01_074">Please check the Nintendo 3DS eShop.</entry>
+<entry key="common01_01_074_02">Please check the Nintendo Switch eShop.</entry>
 <entry key="common01_01_075"></entry>
 <entry key="common01_01_076">In order to proceed, you must enter&amp;#xA;information using the Wii U GamePad.&amp;#xA;&amp;#xA;Please turn the GamePad on now.</entry>
 <entry key="common01_01_077">Pre-purchase</entry>
@@ -501,6 +502,7 @@
 <entry key="money05_01_003"></entry>
 <entry key="money05_01_004"></entry>
 <entry key="money05_01_005"></entry>
+<entry key="money06_02_008">A network error has occurred. Please try again.</entry>
 <entry key="history01_01_001">Profile</entry>
 <entry key="history01_01_002"> </entry>
 <entry key="history01_01_003">Account Activity</entry>
